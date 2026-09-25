@@ -11,7 +11,6 @@
 [![NPM Version](https://img.shields.io/npm/v/redux-form.svg?style=flat)](https://www.npmjs.com/package/redux-form)
 [![NPM Downloads](https://img.shields.io/npm/dm/redux-form.svg?style=flat)](https://npmcharts.com/compare/redux-form?minimal=true)
 [![Build Status](https://img.shields.io/travis/redux-form/redux-form/v6.svg?style=flat)](https://travis-ci.com/redux-form/redux-form)
-[![codecov.io](https://codecov.io/gh/redux-form/redux-form/branch/master/graph/badge.svg)](https://codecov.io/gh/redux-form/redux-form)
 [![Code Climate](https://codeclimate.com/github/redux-form/redux-form/badges/gpa.svg)](https://codeclimate.com/github/redux-form/redux-form)
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 [![Twitter URL](https://img.shields.io/twitter/url/https/github.com/redux-form/redux-form.svg?style=social)](https://twitter.com/intent/tweet?text=With%20@ReduxForm,%20I%20can%20keep%20all%20my%20form%20state%20in%20Redux!%20Thanks,%20@erikras!)
